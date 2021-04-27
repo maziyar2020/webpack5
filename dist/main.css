@@ -1,0 +1,3 @@
+:root{--text: #222}body{margin:0;padding:0;background-color:#ffdab9;color:#222;color:var(--text);font-size:20px}.hero{background:url(images/8a95ca7dc7ed801d87cd.jpg);background-size:cover;background-position:center;min-height:300px;width:100%}main{display:flex;flex-direction:column;align-items:center}button{font-size:1.4rem}
+
+/*# sourceMappingURL=main.css.map*/
